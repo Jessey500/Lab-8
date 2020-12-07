@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.exe
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.pdb
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab_8.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab_8.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.exe
+c:\users\user\documents\visual studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Lab 8\Lab 8\obj\Debug\Lab_8.Form2.resources
